@@ -1,1 +1,696 @@
 
+Characters
+
+Main:
+* Ada
+* Ada's mom
+* Ada's dad
+* Leo
+* Mr. Scott Hickenlooper
+
+Classmates:
+* Evangeline - headstrong, inattentive
+* Kenny - self-conscious
+* K.P., or K.J., or K.C.? - creative
+* Phaedra - straightedge?
+* Pradeep - fey, flamboyant
+
+School staff:
+* Ms. Dawkins or Ms. Henri - principal
+* Ms. Barkle - teacher
+* Ms. Krebke - teacher
+* Ms. Tavares - teacher
+* Ms. Hartley - teacher
+* Ms. Lashley - secretary, sweet to Ada
+
+Other:
+* Ada's sister, Nicole
+* Peter and Henry, Hickenlooper's kids
+* Mary, Hickenlooper's wife
+
+
+
+
+
+
+
+============================================
+============================================
+============================================
+============================================
+============================================
+============================================
+============================================
+============================================
+
+
+
+
+
+============================================
+
+Chapter: algorithms
+
+
+"Where else in our day to day lives do we see algorithms?" Ms. Krebke asked the class. Examples already covered much of the whiteboard.
+
+The question hung in the air, and Ada looked around the room. K.C. and Nicole were fiddling with something surreptitiously under K.C.'s desk, and Ada saw that it was a folded paper fortune teller. K.C. caught Ada looking at them, and flashed a slightly rude "what?!" expression back.
+
+Ada sat up straight in her seat and raised her hand. "Would a fortune teller count?" she called out. "I mean, the kind we fold, and write things in?"
+
+Ms. Krebke smiled. "Definitely. So, what would be the first step?" She looked at Ada, then followed her eyes. She gave a little laugh. "K.C. and Nicole, do you have thoughts on this?"
+
+K.C. and Nicole looked up in surprise. Nicole spoke up. "I'm sorry Ms. Krebke, could you repeat the question?" Ada rolled her eyes. She wished Nicole would just say, plainly, that she hadn't been paying attention.
+
+"A fortune teller," Ms. Krebke explained with a smile, "like the one I believe and K.C. have over there—what would be the first step in using it?
+
+K.C. and Nicole looked at each other. K.C. began, "Well, you look at the numbers on the outside, and pick one."
+
+Ms. Krebke wrote on the whiteboard:
+
+      1. choose a number on the outside
+
+"And then?"
+
+K.C. continued, "Then you... sort of..." she frowned. "You do this!" and she demonstrated with the fortune teller she had, opening and closing it rapidly, and counting up to 9.
+
+Ms. Krebke let her finish. "What if you had to put that into words? How would you describe it clearly, so that someone who hasn't seen your demonstration will know how to do it?
+
+
+============================================
+
+Chapter: Mailbot
+
+
+The mailbot sat, waiting to be given its payload: the single-page flyers about the upcoming arts fair, three of while were supposed to be delivered to each classroom. 
+
+"Here we are," said Ms. Tavares, and held out the stack of bright blue and black paper to Ada. Ada took it; the pages were still warm from the copier, and they had that smell that freshly printed copy paper had, a bit of warmed wood and glue, with a static scent on top of it, like you might smell during a thunderstorm.
+
+Someone whooped jokingly, and Ada felt everyone's eyes on her. She was proud that she had spearheaded this project. But she also felt a bit guilty. 
+
+Ada took a breath, then said "Thanks y'all, but it's Kenny who's got to do the honors. It was his idea." She turned to him; he looked at her sideways, acting vaguely annoyed and certainly distracted. "Hey, for all the ways this guy gives me grief, it was he first sketched the bot (during Spanish class, I might add)." Kenny let a little smirk show on his lips. Ada felt heartened, and continued. "And Kenny did something else, something that must have taken swallowing his pride: he brought the idea to me. That took vulnerability." She handed him the stack.
+
+"Entrust," Kenny mumbled. Ada looked at him quizzically. "And trust," he said again, louder, eyebrows raised, and Ada realized she had misheard him. "You know," he explained, "I had to trust you wouldn't..." he shrugged. "You know."
+
+Ada laughed. Where had this side of Kenny been? "Sure. For all you knew, I was going to laugh you out of the room."
+
+Kenny nodded. "And notice something stupid about the idea. Something obvious. To you, obvious."
+
+They looked at each other. This was such a surprise. After a beat, Ada said, "Shall we?" Kenny loaded the paper in the hopper, pressed the activate button, and everyone cheered and whooped.
+
+The mailbot raced into the hallway, crossed it, and promptly ran straight into the door of Ms. Hartley's classroom. 
+
+Kenny froze. Leo put his palm to his face. Ms. Tavares called out from behind the students, "Tell me you guys tested with the doors closed."
+
+Leo sighed. "We were always working on it afterschool -- the janitors just have all the doors open!"
+
+Kenny looked deflated. "All that work for nothing."
+
+Ada scrunched up her face, exaggerating that she was taken aback. "For nothing? For NOTHING? K, this is just the beginning." She could hear her father's voice in her words; oh my god, was she really becoming just like her dad? "We're going to take this obstacle, and use it to make Mailbot smarter. And this isn't going to be the only one. It's obstacles that make engineering matter."
+
+Kenny looked unconvinced. "I just want something that works the first time. I thought it would just work. Why'd we even do this test right now?"
+
+Ada nodded. "Because if we just build it and don't test it in the field, it's fragile. It's not good engineering. It's not real."
+
+
+============================================
+
+> Ada and Phaedra investigate random forests, get accused of stealing book
+
+
+"How about this one?" Phaedra called from around the corner. Ada looked up to see her coming around the corner of the bookshelves, carrying a massive textbook that looked like it would topple her over. With a huff, she dropped it on the table in front of Ada. It kicked up clouds of dust that went spinning off to either side.
+
+Ada looked at the title: Artificial Intelligence and Knowledge Modeling. On the front was a set of branching lines, which started as a single, thick white at the top of the cover and split again and again into what seemed like hundreds of thin lines at the bottom. Some sort of metaphor for all the different choices an AI program made, maybe? 
+
+She flipped the book open and ran her finger down the table of contents, scanning it for—she wasn't quite sure. Then her eye caught on a subsection. "Bingo," she said, with a big nod.
+
+Phaedra looked where she was pointing. "Choice refinement wizards?" she said aloud. She looked a few lines up to the chapter title. "Decision trees and random forests." She looked at Ada. "I don't get it."
+
+"So," Ada started, "I don't totally know what any of this means. But 'choice refinement'—that sounds kind of like when you're at Sephora and they say, 'answer a few short questions to find the right shade for you', right?"
+
+Phaedra chewed her lip. "I guess," she shrugged. "And wizards?"
+
+"A wizard is an old 90s name for a sequence of questions," Ada explained. "My parents told me about them. They still have them, but they're just, like, web pages now. When computers started, you kind of had to know how to program to do anything. Then when they first started making graphics that could lay out what you're doing visually, people still didn't know what to do. You couldn't, like, put a bunch of choices in a dropdown menu, because people didn't know what a dropdown menu was. So they had to walk you through every decision, one at a time." She grimaced and turned her lips to one side. "I actually have no idea why they called that a 'wizard'."
+
+They brought the book to the checkout desk. The librarian took one look at the book, and another at Ada and Phaedra. "Girls, this is a very advanced book. This is a..."—(and here she tapped the book hard with her finger, tapping on each word separately—"college-level textbook."
+
+Phaedra and Ada looked at each other, then back at the librarian. Phaedra spoke up first. "We know." The words hung in the air; the librarian just stood there. Phaedra continued, stiffly, "Um, we would like to check the book out now."
+
+The librarian let out a big sign, and said "Girls, you have got to be kidding me. No, you may not check this book out. I know what you're doing."
+
+Ada had been holding her tongue, but was starting to run out of patience. "Are you saying we're not allowed to take this book out? That it violates some rule—some written rule, that we agreed to when we signed up for our library cards?"
+
+The librarian smiled. "I'm saying, this book is not for you to take out. It's a valuable book for our college-age borrowers."
+
+"That doesn't make any sense," Phaedra said with a grimace of disbelief.
+
+"No, it makes perfect sense," Ada had her eyes locked with the librarian, who finally looked away and began to fiddle with a staple remover on the tabletop. "She thinks we are going to steal it, and sell it online."
+
+
+============================================
+
+> Leo's mom is sick
+
+
+Ada stopped on the school steps. Leo was there, standing on the sidewalk, idly kicking a rock at the base of a tree. By the way he glanced her way and then looked anywhere else, she could tell he was waiting for her. She gathered her backpack, continued down the steps and turned onto the sidewalk.
+
+He took a step to fall in behind her. She spun to face him. "What?!" Leo pursed his lips and looked away. "What is it? You're gonna make fun of my mom some more?" He still said nothing. Ada let out an exasperated gggrrruuuuhhhh!!!!!, turned, and resumed walking home.
+
+After a block, she realized he was still following her. Fine. He could do what he wants; she didn't have to notice or care. They kept this up the whole mile home, Ada sneaking a glance here and there as she turned, frustrated at first to see him there, a block behind. But at one point, when she caught a glance and he wasn't there, she felt disappointed. That surprised her.
+
+Finally, she got home, but didn't go in. Instead, she sat on her steps. Eventually, he turned the corner, stopped, then slowly walked over and sat down beside her.
+
+"it didn't feel right to just go inside and cut the whole thing off. What--" Ada looked at him and tried to catch his eye. "--what are you doing? What was all this?"
+
+"My mom," Leo started. He picked up a little rock and started making lines with it against her concrete steps, not a picture, just curved lines of lighter rock on darker.
+
+"Your mom?" Ada was clearly going to have to do all of the work in this conversation. "Are you trying to tell me about your mom? Because you're trying to apologize?"
+
+
+============================================
+
+Chapter: Arty the robot
+
+
+-------
+
+As the bell rang, the 5th grade students poured out of the school doors and into the playground and combination basketball court and soccer pitch. "Arty!" several of them shouted, running up to the robot the class had built and throwing their arms around it. 
+
+"Oh Arty, I missed you so much," Pradeep said, feigning a dramatic swoon.
+
+"Pradeep!" Arty said back, in a Scottish brogue. The students hadn't been able to decide on one voice for Arty to use—for one thing, it wasn't clear if Arty was like "Artie", a name usually given to boys, or "Arti", a name usually given to girls. Finally, the students had decided that Arty was just Arty, and had left it programmed to randomly select a voice each time it spoke.
+
+"Pradeep," Arty continued, "yer speed commin over here was three miles per hour faster than policy allows. Ten demerits."
+
+Pradeep blinked. Several other students stopped in their tracks, but Evangeline didn't hear, and raced by.
+
+"Evaaaangeleeeenn," Arty called out, in a voice that she recognized as being similar to her cousin's, who lived on Long Island. She hated her cousin's voice, and she hated this one, too. "Ten demerits fah you too, hon. No runnin'."
+
+"Arty, what happened to you?" KJ asked, taking their hand from around Arty's shoulder. "Hey Ada, something happened to Arty. It's like Arty's been–"
+
+Ada stepped up and finished KJ's sentence: "–reprogrammed. Arty can still recognize all of us, just like we programmed it. But instead of that being fun, it's being used against us."
+
+KJ exhaled loudly. "And I think we all know by whom." KJ's grammar was impeccable.
+
+They turned towards Leo, who was sauntering over, seeing a crowd gather. "Leo, does your uncle still have that t-shirt printing business?"
+
+Leo laughed. "I mean, he's like four businesses past that now, but yeah, all the equipment is still in his basement. Why?"
+
+KJ and Ada locked eyes. Ada started nodding. "Nice. Arty recognizes faces, right? And gives demerits to whoever is moving too fast?"
+
+KJ smirked. "It's whomever. And there's no reason the same face can't be on fifty t-shirts at once."
+
+Leo blinked. "Sorry, what's going on?"
+
+Ada answered, "It's time to hand out some demerits."
+
+
+============================================
+
+> Ada's mom tries to explain why she left
+
+
+Ada knocked softly on her mom's door. Sometimes she was already asleep by 9. Sometimes she was awake, but not in a mood to see people.
+
+"Come!", came her voice, and Ada felt relief and warmth rush through her. She could tell from her mom's voice that this was a good night.
+
+Ada opened the door to stick her head in, with a sheepish smile on her face. "I know it's late, ma, but can you brush my hair?"
+
+Her mom chuckled and pulled the covers back in a neat triangle. "It is late. And yes, I can brush your hair. But then you've got to go to right to sleep."
+
+She fetched the brush from her side table as Ada settled in on the floor, her back against the edge of the bed. "Do you know why I say 'Come!' like that?"
+
+Ada rolled her eyes. "Oh my god, mom, yes, I know. I know about the TV show, I know grandma had a crush on that guy–"
+
+Her mom feigned offense, as she took the ties out of Ada's hair. "'That guy'? That guy is captain J–"
+
+Ada cut in. "I know his name! Or like, I don't know his name, but honestly, I don't care. It's your thing. I get it. Ow!" she scowled as the brush snagged. "And yes, I know the first show in the sixties had a Black actress, she was the first Black woman in space, well, TV space, anyway. Et cetera, et cetera–"
+
+"–And do you know who said his family watched that show every single week, and how much it meant that–"
+
+Ada groaned. "Martin Luther King. Yes, mom. I know."
+
+Her mom paused, holding the brush aloft. "Well, if you are saying his name like that, then I'm not so sure what you know. Or who raised you." She'd meant it to sound kidding, but it didn't.
+
+They were silent as she continued to brush. Ada finally spoke. "You should have seen my hair while you were gone." She laughed. "Daddy tried. He really tried."
+
+Her mom was quiet, but then her chest convulsed in an unintentional, choking laugh. "I forgot. He had your—oh my god, he had all your hair gathered in one bunch at the top. With all the stragglers popping out at the sides..."
+
+It was Ada's turn to feign offense, and she tsked. "OK, OK, that's enough! I am your own daughter!" They both laughed.
+
+More silence; then her mom realized she was holding her breath. She exhaled, then said, "I missed you so much, Ada."
+
+"Mom, don't–"
+
+"I am so, so–"
+
+Ada started to gather herself up. "Don't do this right now. Just do my hair"
+
+"Ada, you have to know that I would never leave you if I didn't think it was absolutely necessary. What I sacrificed–"
+
+Ada scrambled to her feet and walked out of the room, gently closing the door behind her. Her mom hated when she slammed it.
+
+
+============================================
+
+> Ada drops by Leo's house and sympathizes
+
+Ada rang the doorbell a second time, and counted to thirty. It sure seemed like no one was home. Didn't Leo know she was coming over? She looked around to see if their car was there, but it could be any of the cars parked in the street, and she couldn't remember if she'd seen Leo's parents driving around before. There was a walkway on one side of the house, though -- maybe they were in the back? 
+
+Ada stepped gingerly down the path, feeling a bit like she shouldn't be there. Leo was cool, but you never know who has a racist uncle who will see a Black girl and treat her like she's there to steal something. She could feel herself tightening, poised to protect herself and stay strong if someone barked at her in a way that might be harsher than how they'd question someone else. And you never really know for sure, and if you feel hurt about that then you second-guess yourself... Ada shuddered, and tried to shake the energy out. She was just there looking for her friend.
+
+"Leo," she called, loud and clear, making it obvious to anyone listening that she wasn't sneaking around. Behind his house, there was a smaller house—sort of a big shed, or a garage, except there wasn't room for a car to drive back here. "Leo?" she called, and knocked on the half open door. It was old, worn wood, with nine separate little panes of glass in it, one of them missing. She peeked inside, and saw tools—and remembered Leo talking about his dad's "workshop". Somehow, she had imagined a well-appointed, brightly lit, high ceilinged space, with his dad chipper and moving around efficiently. If this was his workshop, it was a monument to disorganization, with more things in a state of partial repair than she could count. Posters lined the wall, many of them covering other, older posters; she couldn't tell if some of them were ironic vintage, or, like, actually from the 1950s or whatever. One said "Visit Yugoslavia!". There were rusty cans, with rusty screwdrivers and files and awls, next to rusty vises, and rusty saws. There were books lined up against several walls, books stacked on their sides to hold up parts of chairs that maybe had once had glue drying. There were cans of what looked like washers, until she realized that they were mostly coins, with washers and screws and nails mixed in. 
+
+Ada backed out and shut the door. Whatever, every parent was a bit of a mess. But seeing that made a bit more sense of Leo's reluctance to talk about his dad. It's not like Einstein had a neat desk, it's not like appearances are everything. But Leo had said his dad was a carpenter! And that looked like the workspace of someone who doesn't take care of themselves. And if not themselves, then how do they take care of their kid?
+
+
+============================================
+
+> Leo's dad works on sculpture
+
+Damon yawned and stretched, then slowly sat up in bed. He waited for his feet to adjust to a bit of his body weight, then stood up slowly and took a couple of steps, stretching his hips from side to side as he went. He gargled a little mouthwash, walked to the kitchen, hit the electric kettle, and put some ground coffee in the drip liner. 
+
+He'd come back when the water had boiled to make the coffee. For now, it was sculpture-making time.
+
+He rolled open the sliding door at the back of the house, and stepped outside into the cool late morning air. Bits of mist were still rising and burning off in the sunlight. He walked across his wooden back deck to his garage workshop. Would the piece look as jumbled and unpromising as he'd felt at the end of yesterday's work? He pulled the door open and pulled the light switch cord, and the shop sprang into view.
+
+On the table was his self-portrait, a work in progress that started with a mismatched set of wood remnants that he had glued together, then sculpted with a router as though they were a single object. Now he was in the process of adorning it with sequins and tassels. This direction had surprised him, but it felt right, and omitting them seemed wrong. He tried not to think too much about his self-portraiture work, knowing that second-guessing would kill his creativity. Sequins and tassels it is, he thought, though the underlying structure could use some tweaking.
+
+
+============================================
+
+> Ada plays Leo's choose your own adventure game
+
+
+"I finished it!" Leo said breathlessly, flopping into his seat. "Well, not finished finished, but it's ready enough for you to play it."
+
+Ada looked at him. "Um, not finished finished... what exactly?"
+
+Leo threw his arms out incredulously. "Hello, the adventure game!" They stared at each other. "Okay," Leo continued, "now I'm realizing that I didn't exactly tell you I was working on it."
+
+Ada rolled her eyes. "That is, in some circles, considered an important step before announcing to someone that you've finished something."
+
+"Not finished finished—"
+
+"NOT finished finished, I get it." Ada paused. "Well, so, when can I play it?"
+
+"Ada and Leo," Ms. Barkle called from her desk. "This is not debate class!"
+
+"We're not deba—" Ada cut herself off as Leo shook his head disapprovingly. 
+
+"This afternoon!" Leo whispered.
+
+---
+
+Ada was stumped. She'd been trying Leo's choose-your-path-style text-based game, "Trapped on the Island", for two days now. After the first few games, where her ship went up in flames or was boarded by pirates, she figured out how to navigate past those possibilities, and made it to the main part of the game's story, where her ship crashed in the shallows near an unpopulated island, and she struggled to find a way to escape.
+
+Leo had filled the game with countless dead ends and red herrings, which alternately frustrated Ada and delighted her. She found trees with bark that peeled off in thick, stringy strips, made rope from them, felled trees, and lashed them together to make a raft. She was sure this was her ticket off of the island, but every time she boarded her makeshift craft, she capsized in the thunderous waves that crashed against the island from every side. She spied a string of lights forming a path in the distance, and hacked her way through the island's jungle to get there, only to find that it was merely fireflies alighting on an old fallen log. She found a cave with tunnels and ancient wall art that seemed to hint at mysterious possibilities, but she died several times stumbling in the darkness into precipitous drops or swimming through underground lakes trying to find hidden ways back up to the surface.
+
+She couldn't help but feel critical of Leo's game design, and told him so at school. "A good game isn't just hard in arbitrary ways," she explained. "Bowser could obviously stop Mario completely by just putting up a wall ten blocks high—that would be game over. But the game would suck." The implication hung in the air. For anyone else, Ada would never imply such a criticism. It was only because she respected Leo so much that she was willing to share her thoughts, as they were, without sugar-coating them or biting her tongue.
+
+"Keep playing," was all he said. With a smile, which made her want, just a little bit, to punch him in the face.
+
+But she did keep playing. Even though she couldn't find her way to the other side of the game's conundrum, she found she was appreciating all of the different vignettes and side stories she was encountering. A chest washed ashore, with soggy clothes and papers that told the story of a bride married off to a man she had never met, who wrote passionately of a love with a school friend, and schemed to sabotage the voyage to return to her. There was a baby bird, its egg fallen from its nest and cracked, who Ada returned to the nest. Seeing with a shock that it had been rejected by its mother, she took it to her lean-to—her own nest, of a sort—and nursed it into health with a diet of crushed clams and beetles. (She shared the diet of clams, but not the beetles.) These episodes didn't seem to lead her any closer to getting off the island, though, and she was forced to build her shelter into more of a long-term home that could protect her from storms and wild animals.
+
+She set off to school the next day with a speech written in her head about how Leo wasn't adequately offering "signposts" or "milestones" within the game, concepts she had learned from watching video interviews with game designers. But when they had the chance to talk, when they both finished the water cycle quiz early, she was surprised to find that all she wanted to talk about was life on the island.
+
+And that was how she solved the game. Talking to Leo, she listened to herself. She was saying, "There's so much breadth to the game. Maybe too much for me to solve it. I feel like I'm really there, like I can do anything I want to, even though each page only gives me two or sometimes three choices." She was saying, "I still haven't gotten any closer to getting off the island, which, I mean, has to be the game's objective". 
+
+And Leo wasn't saying much of anything.
+
+As soon as she saw the possibility, she understood everything. You didn't need to get off the island. You didn't need to accept the idea that you were trapped there; you were only trapped in your own mind, only if you chose to see it that way.
+
+"Okay, I get it," Ada admitted the next morning. "But you can't just say that everybody who ever feels like they're trapped really isn't trapped. Some people are wrongfully imprisoned, they're enslaved, they're in an abusive relationship. Should those people just see themselves as free instead of trapped? Does that solve anything, or does it just brush the problem under the rug?"
+
+Leo chewed on this. "I'll be honest, I didn't really think about that. But like, just because it's true that someone might be trapped, doesn't mean that you have to be trapped."
+
+Ada laughed. "Doesn't it?" She shook her head. "I think my parents taught be it's a virtue to suffer, if anyone else is suffering."
+
+"I've met your parents! There's no way they would say that."
+
+"No, they don't want it for me," Ada agreed. "But it's how they think about themselves. At least, how my mom thinks about herself. And that's kind of a stronger lesson, you know?"
+
+Leo thought. "Maybe we need to do something fun for your mom's birthday?"
+
+
+===================================================
+
+> Hickenlooper interrogates Ada
+
+
+"Hello, Ada," said Ms. Lashley warmly, as Ada entered the office. Ada hated coming here—she always felt so off-balance here. In her everyday life, she felt the imbalance of power between her and teachers, her and her parents, but it wasn't too bad, it didn't feel like she was so far below them. But here, she felt like an intruder, like she was looking up at a high tower, where some queen or king moved her around like a pawn. This wasn't her space. She didn't even know where to stand, or whether to hold her hands clasped, or behind her, or by her sides.
+
+"Should I–" she started, but the door to the principal's office opened, and Ms. Dawkins was standing in the doorway, looking stern and tired, gesturing her in wordlessly.
+
+Ada entered, saw the chair in front of the desk that she had sat in before, and reached out to rotate it slightly to begin sitting down.
+
+"Ahem," a voice said behind her, and she jumped. Mr. Hickenlooper was there, closer to her than she felt comfortable. "Do not move the furniture."
+
+Ms. Dawkins shot him a look. "This is my office, Scott, students may adjust the seat as they sit down." She gestured for Ada to sit. Heat was rising in Ada, and she locked eyes with Mr. Hickenlooper, as she stepped around the seat without touching it in a way she hoped seemed surprisingly lithe and graceful, and sat down soundlessly. In a way, she appreciated that he had issued such a ridiculous demand. It reminded her immediately of her mother's description of the "trifling, small-minded leaders" she warned Ada she would encounter. This was someone to survive, not someone to take seriously.
+
+Ms. Dawkins stepped around the desk and sat down at her chair. "Let's get to the matter at hand. Ada, you're not in trouble–"
+
+"Ahem," Mr. Hickenlooper said again. Ada choked a giggle. He was literally saying the word "ahem", like he didn't know it was supposed to represent a natural sound people make.
+
+Ada kept her eyes facing forward. She opened her mouth, and found that the voice that came out was more assured than she thought she was. "What seems to be the matter?"
+
+(idea is that there was a critical comment... it's Anu with the "negative assumptions" about Bob and Tom)
+
+
+============================================
+
+> Ada and Leo go upstate
+
+---
+
+> They see deer, it's special
+
+Ada and Leo spilled out of the cabin, half running down the brick path to the road. There were no sidewalks here, she noted, not even curbs, only street running up against dirt. "It's not even that cold!" she said, looking around at the white fields and the slushy, dripping branches above them.
+
+"It creeps up on you," Leo warned. "It's not that cold, you don't even feel like you need to keep your hands in your pockets, and then suddenly you realize you're chilled to the bone." He liked the sound of that, and shouted, "TO THE BONE!" The two of them bent over laughing. "Oh my god, you're stupid," Ada giggled.
+
+They walked, talking about school and the snow and skiing, which Ada was nervous about. And then, suddenly, she froze, and said "Oh shit–"
+
+"What?" Leo said, whipping around to look where Ada was looking. Two deer, neither with antlers, were standing still, looking at them, about 50 feet away. They were standing in the snow near thick trees, a little ways behind and below them.
+
+"Don't move!" Ada commanded Leo, and herself. He laughed, gently, teasingly. "It's OK!" Ada hit him gently on the shoulder. "I know, but I don't want them to run away yet. I know it's not special for you–"
+
+"It's special for me," Leo cut in. He looked at her seriously. "It is special for me." The deer decided the situation was OK, and started poking their noses around the ground again.
+
+"You must see them all the time. Aren't they, like, just considered pests out here?"
+
+"Well, you don't want to hit one with your car," Leo acknowledged. They stood, staring, their breaths steaming. "It's still special."
+
+After a while, Ada said "I guess it's a surprise. I knew there would be wild animals, but like, they seem like to them this is just their normal home. We were just in the city, which is not nature. And it's not like we passed a barrier into nature."
+
+Leo smiled. "I think the city's nature, too. We just pretend it's not."
+
+---
+
+> Roadside fruit stand
+
+As Leo and Ada walked -- Leo slightly in front, leading the way because he was more familiar with the area -- the bright sun steadily warmed them up. After a while, they reached the main road, and started to walk along it.
+
+"I'm not crazy about this, like, non-sidewalk," Ada said after a while. They were usually able to stay a few steps away from where cars would drive, but every now and then one came close enough to make her body shudder, even though Leo was walking in between her and the road.
+
+"We can cross to the other side," Leo suggested. "There's more room there." That was better, with a little packed-dirt path next to the asphalt. 
+
+"Where are we going, anyway?" Ada asked. But Leo only smiled and said, "You'll see" (at which Ada rolled her eyes.)
+
+Where they were going was a small fruit stand, run by a mother and daughter, with lots of greens, brussels sprouts, carrots, and squash. 
+
+They dove into the wares, and Leo quickly discovered that Ada didn't know what several things were. "That's a radish," Ada said confidently, as Leo held up a radish. In response, he took a bite. 
+
+"Wait, no! Can you do that??" Ada rushed over and hid the radish with her hand. 
+
+Leo laughed. "Caroline, can I do this?" Leo called, taking another bite. The mom called back, "Only if you pay cash!"
+
+"Okay, okay," Leo said, holding up something else. "What's this?"
+
+Ada squinted. "Is that a trick question? It's a... jumbo radish?"
+
+Leo grinned. "I like that. Yes, it's a jumbo radish." He took a bite. "Mmm, spicy!" 
+
+Caroline called out, "I'm ringing you up for radishes AND turnips, Leo..."
+
+Ada called out "Sorry!" But Caroline just shouted back "Sorry nothing, I'm making sales here! Keep eating!"
+
+
+===================================================
+
+> Ada snoops in mom's room
+
+
+"Mom?" Ada called. She knocked on her door and listened. In the distance, she heard a car engine, and somewhere in the house there were a few of those clicking sounds that wood makes as it heats and cools. But no stirring in the bedroom.
+
+Gingerly, she opened the door. It was dim in the room, the only light coming from the two rectangles of sunlight escaping the sides of the windowshades. She flicked on the light. She hardly ever came in here; it wasn't off limits, exactly, but she knew her mom wouldn't want her snooping around. Her dad, he didn't care.
+
+Ada looked around the room, and stepped over to her mother's bureau. There were six perfume bottles on top, and she could smell them as she got close, a vague and subtle cloud of flowers and spice and something dark. She picked up one bottle, dark red, pulled the cap off with a satisfying pop, and smelled it. She felt something surprising—jealousy. Why? She imagined her mother putting this on; she would be thinking of other people she might impress, might draw in. She would be putting on her best face for them, showing them her most impressive side. Ada knew her mother loved her. But her mother always seemed to want Ada to be doing something different—she never had the sense her mother cared about impressing her.
+
+Ada sprayed some of the perfume on her wrist, then rubbed it in small circles on either side of her neck, as she had seen her mother do. Then, on the other side of the house, she heard the front door close, and she put the bottle down, capped it with shaky hands, rushed out of the room, and turned the door handle as she closed the door so the latch wouldn't click too loudly.
+
+
+===================================================
+
+> Chapter: Emotion tracker
+
+---
+
+> Ada and Leo code late, talk about being happy
+
+After they sent in their finished code, Ada and Leo quietly turned off the computer and the lights, left the computer lab, and went out the school's back door, holding the handle as the door closed so it wouldn't be too loud. Dina the janitor had said it was OK with her for them to stay late, but they wouldn't want to alert Mr. Hickenlooper to the fact that they were working late in the computer lab.
+
+"It's so warm!" Ada remarked, when the April evening air hit them.
+
+"I love nights like this," Leo agreed. "I feel so..." he paused, pinching his lips sideways. "I don't know, maybe it's finishing that code, I feel like I could do anything!"
+
+Ada laughed. "Totally! I feel like, if a train was out of control, and we needed to jump onto it and disable it, or like, aliens appeared and challenged one human to a battle of wits, or I had to debate someone on live TV right now... whatever it is, I can do it."
+
+Leo was nodding. "Like, no doubt. No question."
+
+"No question!" Ada smiled as they trundled down the street. She felt like she was bouncing. "Why can't I feel like this all the time?" And then she stopped short, as a flick of yellow-green light appeared in the air in front of them, arcing up and to the right, and then disappeared. She gasped, "Whoah, a firefly!"
+
+Leo turned and looked across the street, where there was a small field. "There's like five of them over there!" He pointed, as he walked backwards.
+
+"I can't believe they're real," Ada said. "I can't believe they only do this to show off for each other, to make themselves attractive. Like, there are female fireflies watching that right now being like 'Yo, that's hot'."
+
+Leo laughed, and they kept walking. Half a block later he said, "You could, though." Ada raised an eyebrow, and he continued, "You could feel like this more. We both could. I don't know if I would want to feel like this all the time, though. I wouldn't want it to get old."
+
+"How," Ada asked, "do you make yourself feel like this more? Feel like, I'm just so glad to be here, right now, to be me, to bring my best? Like, no one else could get in the way of this feeling?"
+
+Leo thought about that. "Maybe it takes practice."
+
+---
+
+> Emotion tracker detects rising anger
+
+
+Ada entered the classroom, grabbing a hot lunch tin, a plastic cold pack, and a chocolate milk from the tray as she passed. A group of kids was huddled over by K. P.'s desk, she noted, and she sat down at an empty desk nearby, folded back the chalky paper on the milk box, and started to peel the foil off the tin.
+
+"No apple?" Leo asked, looking over his shoulder.
+
+"Mealy," Ada said through gulps of chocolate milk. 
+
+"And you're drinking that, on top of it," Leo shook his head. "You know how much sugar that stuff has?"
+
+Ada wiped her mouth. "I do believe that's why I drink it."
+
+"Your body is a temple."
+
+"And this," Ada said with her chin in the air, "is a temple of joy."
+
+"Hey goddess of candy water," Leo said, "come look at this."
+
+Ada sighed, took a few bites of tasteless green beans and pasta shells, and trotted over. She could see that K.P.'s screen showed several graphs, ticking every few seconds with updates. "That's your sentiment detector?" she asked.
+
+"Yep," K.P. replied, chewing on her lip. "It listens to speech using microphones throughout the school... and before you protest, no, it doesn't store the audio. It scores it for emotion,, but discards it right away, for privacy purposes."
+
+"And... does that spike mean what I think it means?" Ada pointed to a graph that read simply, "Anger". She could see that all week, it had been hovering in the 2 to 5 range, except for a few brief spikes up to 6 or 7. But in the last 10 minutes, it had shot up to 11 or 12, and it seemed to be climbing.
+
+"I... I think so?" K.P. sounded worried.
+
+===================================================
+
+> Ada takes sister to natural history museum
+
+
+On Saturday, Ada dragged herself out of bed early. She made decaf coffee; her mom wouldn't let her make regular coffee, but Ada found the smell and the echo of real coffee helped wake her up. She went into her little sister Nicole's room to wake her up. She couldn't believe how grown up Nicole was looking, but when she slept she still seemed soft and new, and Ada rubbed her head gently and helped her come to. With a little coaxing, Nicole got dressed and brushed her teeth, they had some cereal, and they set off for the excursion Ada had planned to the Natural History Museum.
+
+They spent a long time in the rooms with dioramas—large cats in the savannah, bears in wintry woods, strange horselike animals with tusks at the edge of wetlands. 
+
+Nicole pointed to a "small" mammoth, much bigger than her, who was nuzzled up against a hairy wall meant to represent the mammoth's parent. "Are those still alive?" she asked.
+
+"You mean, are they extinct?" Ada wanted her to know precise terms.
+
+"Yeah."
+
+"No, these are extinct."
+
+"Why?"
+
+Ada thought. "I guess, I don't really know." She thought some more. "They lived during a time when the Earth was much colder, so I guess their habitat was really big—they could probably go lots of places to find the food they were used to. But when the Earth got warmer, the places they could live, and which food grew where, changed, and they couldn't adjust."
+
+Nicole listened. "How did they make this one?"
+
+Ada was stumped. "What a great question. What do you think?"
+
+Nicole looked at her. "Just tell me!"
+
+Ada laughed. "I really don't know. Honestly, I've looked at this a million times, and I've never thought to ask that." Nicole smiled.
+
+
+===================================================
+
+> Leo goes camping
+
+
+Leo hadn't wanted to go on the camping trip with his church group, but his mom had insisted, and even though she had an innocent and warm exterior, Leo and his brothers knew that underneath was a layer of steel that would not yield. She didn't need to say "and that's final!", like some parents—they only say that because they aren't sure of themselves. His mom was sure. She signed him up, and told him, and left it to him to figure out if there was a list of things to bring, and to borrow or buy (or steal) what he needed. 
+
+He spent the ride in the van leaning against the window, only occasionally chiming in on some stupid conversation the other boys were having, feeling alone and unloved. The rest of them seemed to have a comfort about them, a delicacy he associated with the bit of baby fat that most of them carried, a default smile and a superficiality. They didn't feel something missing inside. They wouldn't even understand what he was talking about if he tried to explain it.
+
+But things shifted for him once they parked and set out for the campsite. To his surprise, the deacon leading the trip, the father of one of the boys, gave them little instruction. He told them what they needed to know—the campsite was a two mile hike into the woods, there would be brambles, always follow the yellow trail markers. And he put together his pack, announced that he was starting in five minutes, and said nothing more. He wasn't cold or rude, he just treated them like peers, rather than like children, and Leo brightened. For reasons he couldn't understand, most of the other boys didn't seem to get it; a few of them were chasing each other around, slapping their towels at each other. Did they think they never had to do anything unless an adult was leading them by the hand?
+
+Eventually, after the deacon set off, Leo feebly announced too that he was going, and a few of the boys looked over in confusion. Some of them hadn't even identified their packs in the pile. Now they seemed to scramble, and Leo could hear them behind him as they shrieked and fumbled with the clips and asked each other for help.
+
+At the camp that night, it was the same thing. The deacon had told them where firewood and an axe were, but nothing else. It was up to Leo to realize they needed to actually make a fire, and to spearhead the operation—at which point, suddenly everyone had opinions about how to set up the logs. It was up to Leo to decide they needed to make dinner, and to collect ingredients that various boys had been assigned to bring, several of them missing or already squashed.
+
+All of this didn't make Leo feel cared for by his parents. But it did make him feel more whole.
+
+
+===================================================
+
+> Ada goes to School Committee meeting
+
+
+It was Ada's first time in City Hall, and she didn't know which way to go to find the School Committee meeting room. She was surprised that the front desk had nobody there—weren't they worried about security for, like, the mayor? Her town might only have 100,000 or so people, but there were security guards keeping plenty of random businesses and office buildings safe, so shouldn't there be one for City Hall? 
+
+As she tiptoed her way into the building, she looked up; hanging down, with a sweeping staircase winding around it, was a massive, metal and glass chandelier. It had dozens of places for light bulbs, each in the curved shape of a flame, at the top of a small, candle-like, papery cylinder. But most of the bulbs seemed to be missing, broken, or burned out.
+
+Staring at the chandelier, she wondered if she should wait at the desk, if she would be accused of trespassing. What would her father say? She could hear his voice in her ear; he would say something confident but not arrogant, something that took responsibility but also expected responsibility from others. Something like, "This is the people's hall. Our hall. We pay for leaders and staff to guide us. If they're not doing a good job, we'll guide ourselves—and we don't have to apologize for it." That made her feel better about not knowing exactly if she should be there. Her shoulders released, and tension evaporated from her back. Why could she feel that way if her father said it, but not just say it herself?
+
+"Wondering why our building is so full of broken things?" asked a voice from behind Ada, and a well put-together middle-aged woman stepped up next to her. 
+
+"Kind of," Ada admitted. "Sometimes it feels like nothing really works, like anywhere."
+
+"It was built and donated by a local company in 1920," the woman said, staring up at the chandelier with Ada. "At that time, the wealthy lived near here on Spectacle Hill, and the poor lived in the lowlands, many with nothing to eat. For the money it cost to keep it up each year, ten families could have eaten."
+
+Ada chewed on this idea. "So," she said finally, "it's not a symbol of the city being disorganized." She looked up at the woman. "It's a symbol of our priorities. We should be proud that it stays broken."
+
+The woman held out her hand. "I'm one of the assistant superintendents. Vicki Cardozo."
+
+Ada took her hand and shook it uncertainly. "And I'm–"
+
+"Ada," Vicki said with a laugh. "I know who you are. Your reputation precedes you! Principal Henri has told us all about you."
+
+
+
+===================================================
+
+> Ada's parents want to buy a house
+
+
+On Sunday, Ada's parents surprised her by saying they were all going to drive to a nearby suburb, Belmont, "to see a house". 
+
+"To see a house?" Ada was taken aback. "Are you talking about buying a house, and moving?"
+
+Her parents looked at each other. "We're early in the process," her father explained. "Nothing is for certain at this point. We just want you to take a look at it with us."
+
+Ada turned to her mother. "Can you even drive there? Aren't you under house arrest?" As soon as she said it, it sounded too harsh to her, but she was a little mad, and didn't feel like apologizing.
+
+Her mother took a breath. Ada's father gave her a look, but she didn't look back. "Yes, I am." She settled in her chair, and arched her back a little to sit up straighter. "I have permission to leave for this, just like going to the supermarket—"
+
+Ada cut her off. "—where you're not even allowed to use a credit card machine, because it's 'the internet'."
+
+"Yes, Ada. I understand that you are upset about this, and again, I'm sorry for the trouble I've brought on our family. But please do not be rude to me. It doesn't become you, it's lazy, and I do not deserve it." Ada was aware that her mother was not casting her eyes down in shame—she was staring Ada right in the eye. She looked regal, queenly. Ada felt jealous, not for the first time. She loved her mother, but she didn't feel like her. Why did her mother always know what to say and do—why did she always seem so assured, even when she was talking about a mistake so huge that Ada would never forgive her?
+
+Her father cleared his throat. "I think a change of scenery might be good for all of us. And if your mother is going to be spending so much time in the house... well, maybe it makes sense to have some more house."
+
+Ada considered this. And then she did something she hadn't done before—she decided to pretend she had her mother's clarity about what she wanted, and deserved. "I'll come," she said offered, "but I want to establish an agreement first." She felt a pang of panic—that she was acting too selfish—but she decided to trust herself to push ahead. "Our house here is close to my friends. It's close to school. I can walk places. If I say no to moving—even if both of you, and Caroline, want to move, and I'm alone—we won't move."
+
+Her father started, "Ada—" but her mother held up a hand to assuage him. "Agreed," she said. "I appreciate your making your case by articulating it clearly." She smiled. "Someone raised you well."
+
+Ada frowned. She was getting her way, so why did she feel like she was losing, somehow? "Sometimes," she grumbled as she went to her room, "it feels like I had to raise myself."
+
+
+===================================================
+
+> Chapter: Unplugged Arcade
+
+
+Ada and Leo strolled through the concrete schoolyard, now covered in all sorts of elaborate wooden structures. Each was an arcade game, in the sense of old-time carnivals: ring tosses, squirt gun aiming, darts and balloons to pop, rickety go-karts, whack-a-mole using puppets. Each had been handmade by the fifth graders, two or three to a team. The games were swarmed by first graders and kindergarteners, throwing and squirting and shrieking and jumping and whacking and laughing. 
+
+They were standing near a rocketship simulator (the "simulation" was just that the wooden rocket, with a kindergarten boy inside, was being carried by three fifth-grade girls making whooshing noises), when Leo asked, "What's that sound?" 
+
+Ada heard it too. A beeping? She looked around. And her heart skipped a beat. There were a dozen public works employees milling on the sidewalk, directing two dump trucks as they backed into the schoolyard. And in front of them, on a megaphone, was Mr. Hickenlooper. "This fire hazard has been condemned by the department of public works," he shouted into the loudspeaker, as the kindergarten and first grade teachers began to rush around, collecting their kids. Where was the principal, Ms. Henri?
+
+A few of the fifth graders started to pick up their projects, but Mr. Hickenlooper pointed public works guys towards them and they grabbed the projects out of their hands, and dragged them towards the trucks. "It isn't safe to handle these structures, kids," he shouted after them, as they stumbled back in disbelief, wrestling with the garbagemen, calling and waving in distress as their work of the last three weeks was tossed unceremoniously into the truck.
+
+Ada couldn't believe what was happening, and she couldn't think straight enough to even mount resistance. Within the space of ten minutes, the whole fair was wrecked. The yard was strewn with fragments of painted wood, ping pong balls, broken glass, abandoned prize tickets, and the occasional plastic squirt gun. She was dimly aware that Leo was following after various people and shouting at them, to no effect. She should be shouting, too. But she just felt empty inside.
+
+
+===================================================
+
+> Hickenlooper goes to the beach with fam
+
+Scott Hickenlooper looked over the draft report on the city's school reform efforts one last time, his eye lingering on the charts on Chavez Elementary. Things were not going according to plan—scores should have tanked by now, which would put enough pressure on the superintendent to force her to sign the contract for automated assignments from Rote-o-Matic, the company he had founded. 
+
+"Honey," Mary called nervously from downstairs, "the kids are in the car, and I told my sister we'd be there a half hour ago—"
+
+"I'm coming!" he shouted back. And under his breath, he added, "Pardon me if I actually earn some money around here." But he really was done, or as done as he was going to be. He closed his laptop, threw it in his messenger bag, trudged downstairs, locked up, and walked to the car. His boys, who had been horsing around in the backseat, settled down a bit as he approached, got in the car, and turned it on. They kept things under control on the drive to the coast, as well, and let him listen to his Cat Stevens, and even sung along to one or two of the songs, which made him happy.
+
+Once they were there, he set up a folding chair under the umbrella and read a new bestseller about how classical art holds the secrets of innovation, while his kids ran and splashed up and down the beach. From time to time, he walked to the water, swam a few laps to cool off, then came back, got a drink from the cooler, and resumed his book.
+
+Peter ran up to get a coke, and started to run off. Then he paused, and walked back to the edge of the towel. "Hey daddy," he said, trying to keep his eyes on Scott's face, but mostly looking over at Mary. "Would you maybe play rockball with us?" Scott looked up and smiled. "Henry made it up," Peter continued, letting out a laugh, "it's crazy. We play with all the rocks we're finding."
+
+Scott was about to say, "I hope you aren't throwing rocks," but he took a moment, and instead agreed to play. In minutes he was chasing the boys around, picking them up, and making them laugh hysterically. Rockball was as dangerous as he suspected, but he let Henry teach him (he seemed to be making up rules on the spot), and they played all sorts of games for the next hour.
+
+
+===================================================
+
+> Chapter: Science fair (Hickenlooper is moved)
+
+
+Mr. Hickenlooper sauntered over to Abby's project, and eyed its red second place ribbon. Abby was standing by her project, beaming, but her grin turned rigid and forced when she saw him on his way.
+
+He pecked at the keys on the keyboard for a bit, frowning. "This isn't a science project at all," he complained. "It's a creative writing project. Wrong subject, Abby."
+
+Ada was watching this unfold from the corner of her eye, and took a step towards Abby to intervene. Leo grabbed her arm, saying "No, Ada–" and she pulled her arm out of his grip.
+
+"Don't do that," she snapped at him. 
+
+"I know, I know, I'm sorry," he said. He looked her in the eye. "I won't grab you, I'm sorry. But Abby's got this." They looked over at Abby, who was looking daggers at them, silently pleading with Ada to rescue her. Ada shook her head subtly and smiled.
+
+Abby started to speak, but her voice shook and cracked, and she stopped to catch her breath.
+
+"You got this," she mouthed. She hoped it was true. She tried to visualize sending Abby warmth and strength, and Abby seemed to receive this.
+
+"Actually," Abby said loudly, her voice carrying through the gym, "this very much is a science project. You see, the story takes place at the seashore. But it's affected dynamically by the tides."
+
+Mr. Hickenlooper scoffed. "So it's either high tide or low tide, that's it? Two stories?"
+
+"No, no," Abby clarified, and Ada could see her start to settle in. "Everything is affected. And it's not a high or low binary; the story is affected by whatever the current tide level is at Crane's beach. Different marine life appear near the shore; the water temperature adjusts; the sandpiper birds appear and disappear, because the creatures they feed on are only present as the tide goes out. There's even a razor clam zone where bubbles form when the tide is right, and seagulls appear to look for them and dig for them with their beaks."
+
+As she spoke, Mr. Hickenlooper typed actions and other questions into her program, and said nothing. Finally, he said, simply, "Really? Your program does all that?" And Abby felt relief flood her. And then he said the kicker: "How?"
+
+She spent the next twenty minutes explaining her tidal model to him, and all of the different variables that rose and fell with the tides.
+
+
+===================================================
+
+===================================================
+
+===================================================
+
+===================================================
+
+
+===================================================
+
+===================================================
+
+===================================================
+
+===================================================
+
+===================================================
+
+===================================================
+
+
+===================================================
+
+===================================================
+
+===================================================
+
+===================================================
+
+===================================================
+
+===================================================
+
+
+
+
+
+
