@@ -51,20 +51,45 @@ Other:
 
 Chapter: algorithms
 
+Ms. Krebke wrote a word on the whiteboard: "algorithm". "Who knows what this is?" she asked, turning to face the class.
 
-"Where else in our day to day lives do we see algorithms?" Ms. Krebke asked the class. Examples already covered much of the whiteboard.
+Ada knew, of course. She had known since she was a little kid, and so had her sister; their mom practically wouldn't shut up about them. At least, that was true when they were younger. She didn't talk to Ada much about her work these days.
 
-The question hung in the air, and Ada looked around the room. K.C. and Nicole were fiddling with something surreptitiously under K.C.'s desk, and Ada saw that it was a folded paper fortune teller. K.C. caught Ada looking at them, and flashed a slightly rude "what?!" expression back.
+The class was silent. "Anybody?" Ms. Krebke asked. Finally, she looked over at Ada, and Ada caught her look and nodded slightly. "Ada," she asked energetically, "could you help us out?"
+
+"Well," Ada began, "an algorithm is basically a sequence of steps that you take to do something. But it can have logic in it, like... do this part ten times, or if the door is still open, then go back to step two."
+
+"Okay," Ms. Krebke said, turning back to the whiteboard to write. "I'm hearing some key words. Who can shout them out?"
+
+"Steps," said Pradeep, and Ms. Krebke wrote "steps" on the board.
+
+"Logic," said K.C. 
+
+"Door," said a low voice, and the class laughed. Ada looked over. Leo had his head down, his face hidden in his folded arms. He glanced up at Kenny and smirked. 
+
+Ms. Krebke rolled her eyes. "What do we think of 'door' as a keyword, class?" There were giggles. "Maybe that's more of what we just call a 'word', Leo. What else?" That was what Ada liked about Ms. Krebke. She wasn't the most clever teacher. But she had a sense of humor, and she could tell the difference between a student maliciously disrupting class, and when it was more well-intentioned. Because of course, Leo's deliberately incorrect answer meant that he was, in fact, paying attention. Even though, for whatever reason, he wanted to show off like he wasn't.
+
+"So," Ms. Krebke was asking, "where in our lives do we see algorithms operating?"
+
+"Like, traffic lights?" Phaedra offered. "Red, then yellow, then green?"
+
+"You don't drive much, do you?" came Leo's voice again, and most of the class laughed. But Ada saw Phaedra blush and tense up. Now that contribution by Leo, she did /not/ like.
+
+"Actually," Ada spoke up, "that sequence of lights is a useful example. Because it's just a matter of how the algorithm is programmed into the control circuit that runs the light. We assume it's always green, then yellow, then red. Machines can be programmed to follow in any pattern--whatever algorithm you write, that's what they'll do. They don't stop to check what algorithm you meant to write. That's why a climate of--" and here she over-enunciated the word--"/blameless/ error-checking is important for programmers." Leo raised his head up halfway, and looked over at Ada with slightly narrowed eyes. Ada looked right back, and locked eyes with him, as she coolly said, "A climate where we're afraid to make a mistake is poisonous."
+
+There was an uneasy silence in the room, but Ms. Krebke cleared her throat and pushed on. "Where else in our day to day lives do we see algorithms?" she asked.
+
+The question hung in the air, and Ada looked around the room. K.C. and Meera were fiddling with something surreptitiously under K.C.'s desk, and Ada saw that it was a folded paper fortune teller. K.C. caught Ada looking at them, and flashed a slightly rude "what?!" expression back.
 
 Ada sat up straight in her seat and raised her hand. "Would a fortune teller count?" she called out. "I mean, the kind we fold, and write things in?"
 
-Ms. Krebke smiled. "Definitely. So, what would be the first step?" She looked at Ada, then followed her eyes. She gave a little laugh. "K.C. and Nicole, do you have thoughts on this?"
+Ms. Krebke smiled. "Definitely. So, what would be the first step?" She looked at Ada, then followed her eyes. She gave a little laugh. "K.C. and Meera, do you have thoughts on this?"
 
-K.C. and Nicole looked up in surprise. Nicole spoke up. "I'm sorry Ms. Krebke, could you repeat the question?" Ada rolled her eyes. She wished Nicole would just say, plainly, that she hadn't been paying attention.
+K.C. and Meera looked up in surprise. Meera spoke up. "I'm sorry Ms. Krebke, could you repeat the question?" Ada rolled her eyes. She wished Meera would just say, plainly, that she hadn't been paying attention.
 
 "A fortune teller," Ms. Krebke explained with a smile, "like the one I believe and K.C. have over there—what would be the first step in using it?
 
-K.C. and Nicole looked at each other. K.C. began, "Well, you look at the numbers on the outside, and pick one."
+K.C. and Meera looked at each other. K.C. began, "Well, you look at the numbers on the outside, and pick one."
 
 Ms. Krebke wrote on the whiteboard:
 
