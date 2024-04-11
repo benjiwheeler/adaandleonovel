@@ -35,6 +35,10 @@ Other:
 
 
 ============================================
+
+
+
+
 ============================================
 ============================================
 ============================================
@@ -224,6 +228,8 @@ Finally, she got home, but didn't go in. Instead, she sat on her steps. Eventual
 
 Chapter: Arty the robot
 
+(Note: needs writing out) Arty can recognize kids, they train it, but kid in wheelchair gets recognized as a bicicle. Kid frowns and goes away, Ada feels awful, apologizes, kid says he's used to it, actually it's useful to be reminded that these things aren't magic, they inherit whatever biases our world already has
+
 
 -------
 
@@ -363,28 +369,67 @@ She couldn't help but feel critical of Leo's game design, and told him so at sch
 
 "Keep playing," was all he said. With a smile, which made her want, just a little bit, to punch him in the face.
 
-But she did keep playing. Even though she couldn't find her way to the other side of the game's conundrum, she found she was appreciating all of the different vignettes and side stories she was encountering. A chest washed ashore, with soggy clothes and papers that told the story of a bride married off to a man she had never met, who wrote passionately of a love with a school friend, and schemed to sabotage the voyage to return to her. There was a baby bird, its egg fallen from its nest and cracked, who Ada returned to the nest. Seeing with a shock that it had been rejected by its mother, she took it to her lean-to—her own nest, of a sort—and nursed it into health with a diet of crushed clams and beetles. (She shared the diet of clams, but not the beetles.) These episodes didn't seem to lead her any closer to getting off the island, though, and she was forced to build her shelter into more of a long-term home that could protect her from storms and wild animals.
+---------------------
 
-She set off to school the next day with a speech written in her head about how Leo wasn't adequately offering "signposts" or "milestones" within the game, concepts she had learned from watching video interviews with game designers. But when they had the chance to talk, when they both finished the water cycle quiz early, she was surprised to find that all she wanted to talk about was life on the island.
+===================================================
 
-And that was how she solved the game. Talking to Leo, she listened to herself. She was saying, "There's so much breadth to the game. Maybe too much for me to solve it. I feel like I'm really there, like I can do anything I want to, even though each page only gives me two or sometimes three choices." She was saying, "I still haven't gotten any closer to getting off the island, which, I mean, has to be the game's objective". 
+When they got to Leo's house, Ada was surprised how quiet it was. He'd described it as bustling endlessly with all of his siblings and their friends, but everyone was away, and it was just the two of them.
 
-And Leo wasn't saying much of anything.
+They had been in an easy conversation for the whole walk from school, but stepping into the quiet house, things suddenly felt awkward.
 
-As soon as she saw the possibility, she understood everything. You didn't need to get off the island. You didn't need to accept the idea that you were trapped there; you were only trapped in your own mind, only if you chose to see it that way.
+"I guess nobody's home," Leo said. "I dunno, maybe my little brother has a recital thing and everyone went, or something."
 
-"Okay, I get it," Ada admitted the next morning. "But you can't just say that everybody who ever feels like they're trapped really isn't trapped. Some people are wrongfully imprisoned, they're enslaved, they're in an abusive relationship. Should those people just see themselves as free instead of trapped? Does that solve anything, or does it just brush the problem under the rug?"
+Ada didn't know what to say, and just nodded.
 
-Leo chewed on this. "I'll be honest, I didn't really think about that. But like, just because it's true that someone might be trapped, doesn't mean that you have to be trapped."
+"Um," Leo said, glancing around, "you want something to drink? Or like, chips and salsa?" He started to blush a little. He clearly didn't quite know what to do either.
 
-Ada laughed. "Doesn't it?" She shook her head. "I think my parents taught be it's a virtue to suffer, if anyone else is suffering."
+"Yeah," Ada replied quickly, "some chips and salsa and water would be great."
 
-"I've met your parents! There's no way they would say that."
+Leo started to walk to the kitchen, and Ada followed. "We have coke, you know," he called back. "We have, like, infinite coke." He laughed. "Nobody here ever drinks just, like, water."
 
-"No, they don't want it for me," Ada agreed. "But it's how they think about themselves. At least, how my mom thinks about herself. And that's kind of a stronger lesson, you know?"
+Ada smiled. "Coke, then?"
 
-Leo thought. "Maybe we need to do something fun for your mom's birthday?"
+Leo poured two glasses of coke and handed one to Ada. They sipped it in silence for a moment, and then both started to talk at once.
 
+"I'm sorry--" Leo began, just as Ada said "You know--". They both laughed, and Leo said, "You first."
+
+Ada took another sip to buy time to think. Then one more sip. Then she took a deep breath. "When school started," she began, "I hated you." Leo was looking at her, and chewing his lip a bit. "I mean, it really seemed like you didn't care about anyone but yourself. You were so..." She looked away. "Obnoxious. And, like, on purpose. I just didn't get that."
+
+"Okayyyy..." Leo muttered, frowning a bit.
+
+Ada continued. "My point is not that you are obnoxious. It's that you're not obnoxious. Not really. You do care. You're not like I thought you were. You're not... you're not the person I think you were trying to act like you were."
+
+Leo looked away, drained his coke, and put the glass work on the counter, a little too loud and hard. "So what's your point?"
+
+"Hey," Ada exclaimed, putting her hands up in a shrug and taking a step back, "Why are you being such a jerk about this? I'm saying something appreciative about you. I'm telling you I get you, I get the real you, and I'm trying to ask you..."
+
+"Ask me what?" Leo's frow was furrowed, and he was staring at the floor.
+
+"Why you..." Ada threw up her hands. "Why you pull this bratty White boy bullshit!"
+
+"There it is," Leo said, nodding.
+
+"Oh, fuck you," Ada said, wishing there weren't an audible choke in her voice. She could feel tears coming. She grabbed her backpack and got out of there.
+
+(she cries on a nearby stoop, he catches up and says he never knew why, it's just how we works so far)
+
+-------------------------------
+
+> Ada plays Leo's game again, in frustration
+
+Ada sat down at her computer in frustration. She didn't want to do homework. She didn't want to call a friend. She just wanted to be mad at Leo for a while.
+
+She idly opened up his game. Stupid Leo. What was the point of this game, anyway? It was just a really, really complicated way to be a jerk.
+
+She walked around the island, choosing the worst option whenever faced with a choice. She made a campfire—and made sure to do so in the woods, so that the fire started to spread and get out of control. But it started to rain, and the fire went out. She scowled. She just wanted to wreck something. 
+
+She chased through the forest after a little furry creature like a rabbit, throwing stones at it, until she hit her head on a low tree trunk and passed out. When she came to, she was at the bottom of a ravine, and it was getting dark. She must have fallen after she hit her head, and lay there for a while. She shivered in the cold, now that the sun wasn't beating on her. She would need to find shelter, and fast, or else she'd be out in the forest all night, unable to see and unable to walk, unless she wanted to trip and hit her head again.
+
+She stumbled around a bit, until her foot landed on a surface that felt surprisingly flat and firm. She pushed the leaves and branches away with her other foot, and found that the flat surface extended for some distance. Slowly, she followed it, and it led her further into the ravine, down several levels that seemed clearly to be stairs, if a bit rough and overgrown, until she reached a spot that she would have thought was just a natural hill covered in roots, if she didn't already suspect what it was: some sort of building. It even had an entrance, a pitch black, yawning mouth that seemed to have a faint, musty breeze of ice-cold air coming from it. 
+
+Well, she wouldn't be warm inside there, but at least it would protect her from scavenging creatures in the night, that could come from any direction, biting her from below, above, and all around.
+
+Unless, of course, it was the *home* of such a creature. 
 
 ===================================================
 
@@ -482,6 +527,31 @@ Ada looked around the room, and stepped over to her mother's bureau. There were 
 
 Ada sprayed some of the perfume on her wrist, then rubbed it in small circles on either side of her neck, as she had seen her mother do. Then, on the other side of the house, she heard the front door close, and she put the bottle down, capped it with shaky hands, rushed out of the room, and turned the door handle as she closed the door so the latch wouldn't click too loudly.
 
+-----------------------
+
+> Ada realizes the purpose of Leo's game
+
+But she did keep playing. Even though she couldn't find her way to the other side of the game's conundrum, she found she was appreciating all of the different vignettes and side stories she was encountering. A chest washed ashore, with soggy clothes and papers that told the story of a bride married off to a man she had never met, who wrote passionately of a love with a school friend, and schemed to sabotage the voyage to return to her. There was a baby bird, its egg fallen from its nest and cracked, who Ada returned to the nest. Seeing with a shock that it had been rejected by its mother, she took it to her lean-to—her own nest, of a sort—and nursed it into health with a diet of crushed clams and beetles. (She shared the diet of clams, but not the beetles.) These episodes didn't seem to lead her any closer to getting off the island, though, and she was forced to build her shelter into more of a long-term home that could protect her from storms and wild animals.
+
+She set off to school the next day with a speech written in her head about how Leo wasn't adequately offering "signposts" or "milestones" within the game, concepts she had learned from watching video interviews with game designers. But when they had the chance to talk, when they both finished the water cycle quiz early, she was surprised to find that all she wanted to talk about was life on the island.
+
+And that was how she solved the game. Talking to Leo, she listened to herself. She was saying, "There's so much breadth to the game. Maybe too much for me to solve it. I feel like I'm really there, like I can do anything I want to, even though each page only gives me two or sometimes three choices." She was saying, "I still haven't gotten any closer to getting off the island, which, I mean, has to be the game's objective". 
+
+And Leo wasn't saying much of anything.
+
+As soon as she saw the possibility, she understood everything. You didn't need to get off the island. You didn't need to accept the idea that you were trapped there; you were only trapped in your own mind, only if you chose to see it that way.
+
+"Okay, I get it," Ada admitted the next morning. "But you can't just say that everybody who ever feels like they're trapped really isn't trapped. Some people are wrongfully imprisoned, they're enslaved, they're in an abusive relationship. Should those people just see themselves as free instead of trapped? Does that solve anything, or does it just brush the problem under the rug?"
+
+Leo chewed on this. "I'll be honest, I didn't really think about that. But like, just because it's true that someone might be trapped, doesn't mean that you have to be trapped."
+
+Ada laughed. "Doesn't it?" She shook her head. "I think my parents taught be it's a virtue to suffer, if anyone else is suffering."
+
+"I've met your parents! There's no way they would say that."
+
+"No, they don't want it for me," Ada agreed. "But it's how they think about themselves. At least, how my mom thinks about herself. And that's kind of a stronger lesson, you know?"
+
+Leo thought. "Maybe we need to do something fun for your mom's birthday?"
 
 ===================================================
 
