@@ -231,6 +231,25 @@ Kenny looked unconvinced. "I just want something that works the first time. I th
 
 Ada nodded. "Because if we just build it and don't test it in the field, it's fragile. It's not good engineering. It's not real."
 
+Kenney kicked a spot on the floor with his sneaker, a spot where a nail head stuck up a fraction of an inch. "I guess it's good to know we need our training set to be wider." Ada nodded. "Different times of day," Kenny continued. "Sometimes with kids around, sometimes not. Doors open, doors closed."
+
+"Some lights on, some lights off," Ada replied.
+
+Kenny was starting to grin. "And you know what else?"
+
+"Tell me," said Ada.
+
+"We'll need to mess with the mailbot itself. Fog up its camera lenses. Turn it around suddenly."
+
+Ada was grinning and nodding.
+
+"What?" Kenny asked, frowning.
+
+"No," Ada said, "I'm just psyched to see you like this again. I knew you wouldn't mope for long." She affectionately punched him on the shoulder.
+
+Kenny nodded and stared sideways for a few moments. "It's exciting, actually," he said. "I think we might be able to show Mailbot a diverse enough set of stituations that it might be able to handle... well, just about anything. That's pretty cool."
+
+"Yes, Kenny" Ada said, laughing warmly, "That's pretty cool."
 
 ============================================
 
@@ -1004,9 +1023,5 @@ She spent the next twenty minutes explaining her tidal model to him, and all of 
 ===================================================
 
 ===================================================
-
-
-
-
 
 
