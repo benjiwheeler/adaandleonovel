@@ -103,7 +103,7 @@ K.C. and Meera looked at each other. K.C. began, "Well, you look at the numbers 
 
 Ms. Krebke wrote on the whiteboard:
 
-      1. choose a number on the outside
+    1. choose a number on the outside
 
 "And then?"
 
@@ -111,7 +111,63 @@ K.C. continued, "Then you... sort of..." she frowned. "You do this!" and she dem
 
 Ms. Krebke let her finish. "What if you had to put that into words? How would you describe it clearly, so that someone who hasn't seen your demonstration will know how to do it?
 
-CONTINUE HERE
+K.C. chewed her lip. "I guess... I could say, split the sides horizontally. Then bring the sides back together. Then split the sides vertically. Then repeat."
+
+Ms. Krebke wrote these steps on the board:
+
+    1. choose a number on the outside
+    2. repeat:
+        a. split the sides horizontally
+	b. bring the sides back together
+	c. split the sides vertically
+
+"What do you think, class?" Ms. Krebke asked. "Will this work, if we try it?"
+
+K.C. fiddled with the fortune teller, and a few other students mimed using a fortune teller with their fingers, imagining one there. Kenny even started to fold himself one.
+
+"Nope!" shouted Leo, his head still down.
+
+Ms. Krebke took a deep breath and let it out. "Do you care to elaborate on that, Leo?"
+
+"Not really," Leo replied, and Marco let out a loud choking laugh.
+
+"Why doesn't this work?" Ms. Krebke asked. "Shouldn't we split the sides horizontally, then bring the sides back together, then split the sides vertically?"
+
+"But then you have to repeat it," came Leo's voice.
+
+"Ooooohhhh", Evangeline let out slowly. "After we split the sides vertically, the next thing we'll do is start over and split the sides horizontally again."
+
+"Yes, yes," Pradeep called out. "We're not ready to split the sides horizontally again. First we have to bring the sides back together."
+
+Ms Krebke snapped her fingers in celebration. "I'm loving how you are all exploring this by building on each others' ideas. Does anyone want to fix our set of steps?"
+
+"Algorithm", came Leo's voice. His head was still down on his desk.
+
+"Huh?" asked Phaedra.
+
+"An algorithm," Ada spoke up to explain, "is just a series of steps. It's written in plain language. It's like a computer program, but just for people to understand, not, like..." She was suddenly aware of most of her classmates looking at her. She swallowed. "Not like, actually something a computer could run." She looked at Ms. Krebke, who looked pleaseantly surprised, and then back to her classmates. "What?" Ada asked, shifting in her chair. "I know stuff about computers. It's not a big deal."
+
+"Oh Ada," Ms. Krebke said, "It is /such/ a big deal, actually." Ada rolled her eyes. She liked Ms. Krebke, but sometimes she pulled condescending nonsense like this. "And," Ms. Krebke continued as she turned to write on the board, "Ada's definition of an algorithm is right-on. An algorithm is just a series of steps, written in plain language."
+
+"Hey algorithm," Leo called from across the room, looking at Ada with eyes that struck her as uncaring. "Should I fix you?" Marco snorted. Leo unfolded himself and sauntered to the front of the room, picked up the eraser in one hand and a dry erase marker in the other, and changed the instructions to:
+
+    1. choose a number on the outside, call it X
+    2. repeat X times:
+        a. split the sides horizontally
+	b. bring the sides back together
+	c. split the sides vertically
+	d. bring the sides back together
+    3. look at the choices, and choose one
+    4. open it up and read your fortune
+
+Leo re-capped the marker, flipped it so it spun as it returned to the ledge at the bottom of the whiteboard, and ran back to his seat in simulated slow motion, as if winning a race. He slapped five with everyone in the row as he passed them. Ada rolled her eyes.
+
+Ms. Krebke began to say something about appreciating Leo's proposal, but Ada cut her off. "It's wrong!" she cried.
+
+
+[CONTINUE HERE; algorithm needs to alternate between horiz and vert, able to stop at either.]
+
+
 
 ============================================
 
