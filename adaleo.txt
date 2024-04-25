@@ -17,6 +17,7 @@ Classmates:
 * Gaby?
 * Sumit - quiet, nerdy boy who is usually reading a book during class
 * Marco - Leo's friend, shallow and rude
+* Sasha
 
 School staff:
 * Ms. Dawkins or Ms. Henri - principal
@@ -260,7 +261,7 @@ Kenny nodded and stared sideways for a few moments. "It's exciting, actually," h
 
 Ada looked at the title: Artificial Intelligence and Knowledge Modeling. On the front was a set of branching lines, which started as a single, thick white at the top of the cover and split again and again into what seemed like hundreds of thin lines at the bottom. Some sort of metaphor for all the different choices an AI program made, maybe? 
 
-She flipped the book open and ran her finger down the table of contents, scanning it for—she wasn't quite sure. Then her eye caught on a subsection. "Bingo," she said, with a big nod.
+She flipped the book open and ran her finger down the table of contents, scanning it for—well, she wasn't quite sure. Then her eye caught on a subsection. "Bingo," she said, with a big nod.
 
 Phaedra looked where she was pointing. "Choice refinement wizards?" she said aloud. She looked a few lines up to the chapter title. "Decision trees and random forests." She looked at Ada. "I don't get it."
 
@@ -280,9 +281,11 @@ Ada had been holding her tongue, but was starting to run out of patience. "Are y
 
 The librarian smiled. "I'm saying, this book is not for you to take out. It's a valuable book for our college-age borrowers."
 
-"That doesn't make any sense," Phaedra said with a grimace of disbelief.
+"That doesn't make any sense," Phaedra said with a grimace of disbelief. "It's valuable for us too."
 
 "No, it makes perfect sense," Ada had her eyes locked with the librarian, who finally looked away and began to fiddle with a staple remover on the tabletop. "She thinks we are going to steal it, and sell it online."
+
+Phaedra smirked. "No she doesn't," she began with a laugh. "That's crazy." But then she looked at the librarian, and saw the look on her face. "Oh my god," Phaedra almost whispered, in a very different voice. "She does."
 
 
 ============================================
@@ -399,10 +402,27 @@ Ada rang the doorbell a second time, and counted to thirty. It sure seemed like 
 
 Ada stepped gingerly down the path, feeling a bit like she shouldn't be there. Leo was cool, but you never know who has a racist uncle who will see a Black girl and treat her like she's there to steal something. She could feel herself tightening, poised to protect herself and stay strong if someone barked at her in a way that might be harsher than how they'd question someone else. And you never really know for sure, and if you feel hurt about that then you second-guess yourself... Ada shuddered, and tried to shake the energy out. She was just there looking for her friend.
 
-"Leo," she called, loud and clear, making it obvious to anyone listening that she wasn't sneaking around. Behind his house, there was a smaller house—sort of a big shed, or a garage, except there wasn't room for a car to drive back here. "Leo?" she called, and knocked on the half open door. It was old, worn wood, with nine separate little panes of glass in it, one of them missing. She peeked inside, and saw tools—and remembered Leo talking about his dad's "workshop". Somehow, she had imagined a well-appointed, brightly lit, high ceilinged space, with his dad chipper and moving around efficiently. If this was his workshop, it was a monument to disorganization, with more things in a state of partial repair than she could count. Posters lined the wall, many of them covering other, older posters; she couldn't tell if some of them were ironic vintage, or, like, actually from the 1950s or whatever. One said "Visit Yugoslavia!". There were rusty cans, with rusty screwdrivers and files and awls, next to rusty vises, and rusty saws. There were books lined up against several walls, books stacked on their sides to hold up parts of chairs that maybe had once had glue drying. There were cans of what looked like washers, until she realized that they were mostly coins, with washers and screws and nails mixed in. 
+"Leo," she called, loud and clear, making it obvious to anyone listening that she wasn't sneaking around. Behind his house, there was a smaller house—sort of a big shed, or a garage, except there wasn't room for a car to drive back here. "Leo?" she called, and knocked on the half open door. It was old, worn wood, with nine separate little panes of glass in it, one of them missing. She peeked inside, and saw tools—and remembered Leo talking about his dad's "workshop". Somehow, she had imagined a well-appointed, brightly lit, high ceilinged space, with his dad chipper and moving around efficiently. If this was his workshop, it was a monument to disorganization, with more things in a state of partial repair than she could count. Posters lined the wall, many of them covering other, older posters; she couldn't tell if some of them were ironic vintage, or, like, actually from the 1950s or whatever. One said "Visit Yugoslavia!". There were rusty cans, with rusty screwdrivers and files and awls, next to rusty vises, and rusty saws. There were books lined up against several walls, books stacked on their sides to hold up parts of chairs that maybe had once had glue drying. Some of the books were water-worn, and there was a strong moldy smell in the air. There were cans of what looked like washers, until she realized that they were mostly coins, with washers and screws and nails mixed in. 
 
 Ada backed out and shut the door. Whatever, every parent was a bit of a mess. But seeing that made a bit more sense of Leo's reluctance to talk about his dad. It's not like Einstein had a neat desk, it's not like appearances are everything. But Leo had said his dad was a carpenter! And that looked like the workspace of someone who doesn't take care of themselves. And if not themselves, then how do they take care of their kid?
 
+She turned to leave, but suddenly heard a car pull in at the front of the house. The doors opened, and she heard Leo's voice, and the voice of a woman--maybe his mother. Suddenly she felt out of place, and guilty. What would they think, seeing her there? Somehow, having seen Leo's dad's disordered workshop made her feel like she'd violated something. They were going in the front door now. She crouched down next to the back corner of Leo's house, waiting to hear the front door close.
+
+"Watcha doin'?" came a small voice from above her. Ada jumped, and looked up. Through a screen window, a little girl, maybe 4 years old, was looking at her. The girl leaned her head forward and pressed her forehead and nose against the screen.
+
+"Um, hi," Ada said, and waved stiffly. She didn't know what else to do or say.
+
+"I can make my skin all bumpy like this," the girl said. "Watch!" Ada noticed that the screen was very stretched out and wrinkled, probably from previous times the girl had done this. She pressed even harder, and started bouncing against the screen.
+
+"No," Ada said in confusion, "I don't think you should--"
+
+SNAP! With a sound of wrenching tin, the screen's metal casing came loose from the window frame, and the whole thing popped forward, with the girl tumbling head-first after it. She shrieked and reached for the window frame with her hands, but her hands bumped into the screen mesh and her fingers closed around air. Instinctively, Ada formed her arms like a bucket and moved forward so she was right below the girl, whose head struck Ada's chest. As Ada's arms closed awkwardly around her inverted body, Ada's knees buckled, and they ended up in a heap on the weed-covered patio, with the wind knocked out of Ada.
+
+Instantly, the girl began to cry hysterically, as Ada came to her senses. Frantically, she checked the girl all over for anything that seemed bloody or broken. But she could already tell by the crying that she was alright. As for Ada herself, her tailbone ached and her back had gotten a shock, but she was alright.
+
+Then the back door burst open, and Leo's mom--Ada knew who she must be right away--came running out and scooped the girl up in her arms. "Maeve!" She cried, looking alternately at the girls and at Ada. "What the hell is going on?"
+
+Ada sighed. "This," she said, getting to her feet gingerly, "is going to take some explaining. Do you have tea?"
 
 ============================================
 
@@ -486,13 +506,37 @@ Leo looked away, drained his coke, and put the glass work on the counter, a litt
 
 "Ask me what?" Leo's frow was furrowed, and he was staring at the floor.
 
-"Why you..." Ada threw up her hands. "Why you pull this bratty White boy bullshit!"
+"Why you..." Ada threw up her hands. "Why you pull this bratty White boy bullshit!?"
 
 "There it is," Leo said, nodding.
 
-"Oh, fuck you," Ada said, wishing there weren't an audible choke in her voice. She could feel tears coming. She grabbed her backpack and got out of there.
+"Oh, fuck you," Ada said, wishing there weren't an audible choke in her voice.
 
-(she cries on a nearby stoop, he catches up and says he never knew why, it's just how we works so far)
+They sat there for a minute, not talking. Ada sipped her coke and felt her throat relax, and her tears subside.
+
+Leo was looking away, and fiddling with his cap. "I don't know," he finally said, not looking at Ada.
+
+Ada raised her eyebrows and looked at him squarely. "You don't know... what?"
+
+Leo looked at her and rolled his eyes. "I don't know why I pull that bratty White boy bullshit." He held her stare, and then they both suddenly burst into laughter. "I don't!" he said, laughing.
+
+"I know you don't," Ada said through her hands as she wiped tears of laughter from her eyes.
+
+"What's white about it, anyway?" Leo asked, still smiling, with his hands forward in a pleading gesture.
+
+"I guess..." Ada began. "I mean, I don't know, it's like... that you do it without thinking that it'll matter. Like, you don't worry there will be any consequences for you. And your parents don't worry about it either."
+
+"My mom is always telling me to take school more seriously," Leo objected. "And Marco does the same thing as me, and he's not white!"
+
+"OK, maybe it's unfair of me to say it's white," Ada conceded. "But, I don't know, it's a thing. That kind of... entitlement is a thing. It just... there's a particular way it works with white people. With some white people. With some white boys."
+
+"And you think that's not really me." 
+
+"No, Leo," Ada said. They weren't laughing now. She looked him in the eye. "I think that's not really you. Some people don't care about their effect on others. They don't care how they act, so long as they're going to be alright."
+
+"But I do."
+
+Ada said nothing.
 
 -------------------------------
 
@@ -866,6 +910,34 @@ All of this didn't make Leo feel cared for by his parents. But it did make him f
 
 ===================================================
 
+> Leo gets caught with a pocketknife
+
+Leo was with the class in the art room, working on his unplugged arcade project, when the feeling in the room suddenly shifted. He looked up--and saw that Mr. Hickenlooper had stepped into the room.
+
+He clasped a notepad in his hands, and began to circulate around the room, peering intrusively at the projects as students worked on them. 
+
+"Um, hi there, Mr. Hickenlooper," Mr. Hartley called from across the room, bounding over to intercept him. "We weren't expecting you." He attempted to put a hand over his shoulder to lead him away from the projects, but Mr. Hickenlooper would not budge.
+
+"Are any of these students wearing protective eyewear?" Mr. Hickenlooper asked, in a scornful tone. Mr. Hartley glanced around the room nervously. "Sure," he chuckled unconvincingly, "Sasha and Phaedra are!" he pointed towards the far corner, where Phaedra was wearing her eyeglasses, and Sasha was twirling a pair of protective glasses with her hand. Mr. Hartley announced to the room, "Everyone, reminder to have your protective glasses on at all times! As soon as you step into this room!" He turned to Mr. Hickenlooper. "When they use tools, they definitely wear them," he assured him, as Pradeep drilled into a block of wood next to him. Pradeep looked up, his uncovered eyes showing surprise, then puffed out his cheeks, reached over for the protective glasses, and slid them slowly onto his face.
+
+"Hmmm," Mr. Hickenlooper emitted with a frown, scrawling notes on his pad.
+
+They continued to circulate. But when they got to Leo's station, Mr. Hickenlooper stopped. "That's quite a nice saw you've got there," he said.
+
+Leo stopped sawing back and forth, and looked at the rusty handsaw, with its sun-bleached, fraying wooden handle. "Oh," said Leo, "this is my dad's." He gestured idly to a toolbox next to him, with the top open.
+
+Mr. Hickenlooper stared at the toolbox for a moment, then licked his lips and leaned forward. "You mean to tell me," he said in an even tone, "these are items you brought into the school yourself?" Underneath his calm exterior, his voice had a slight tremble of excitement, and Mr. Hartley felt uneasy. He sprang forward to shut the toolbox, but Mr. Hickenlooper slipped his hand into it before he could close the top. "Just a moment, Jim," he said with sickly sweetness. He opened the top back up, removed an adjustable wrench and a clamp, then found what he was looking for. 
+
+Mr. Hickenlooper's face lit up. Mr. Hartley's heart sank. In his hand, Mr. Hickenlooper was holding up a folding pocketknife. 
+
+"Is this yours?" Mr. Hickenlooper asked. Leo looked up, nodding idly, then focused back on his project, where he was trying to hammer two blocks of wood together. Mr. Hartley couldn't believe how oblivious Leo was being--didn't he know he was being set up? He looked across the room at Ada, who was following Mr. Hickenlooper closely, and who seemed to realize what was happening.
+
+"So," Mr. Hickenlooper continued, "you secretly brought a lethal weapon into school."
+
+Now Leo seemed to get it.
+
+================================
+
 > Ada goes to School Committee meeting
 
 
@@ -898,6 +970,31 @@ She closed her eyes. "Hard just means it's worthwhile. I deserve the same welcom
 A city council member was talking about business licenses or something, and her attention floated back into the room. She opened her eyes and looked around. Now it looked more like a normal room. She imagined all the times handymen had to come in to fix broken desks and floor tiles and windows in here. She imagined all the time it sat empty and dark, all the times it had been mopped by an underpaid janitor. This room didn't belong to the city council, or to the mayor, or to Mr. Hickenlooper. It belonged to everyone. There wasn't a wrong way to stand, or a wrong place to sit in here, because the rules, the real rules, aren't made by the Mr. Hickenloopers and the mayors. The rules that mattered, the rules that were worth actually respecting, were made by people who respect everyone, who love everyone, who wouldn't care about someone not knowing where to sit their first time here.
 
 She sat down in the nearest chair. It didn't matter if someone else had an opinion about that. This was her chair. 
+
+===================================================
+
+> Ada's parents learn that her pushing for alternative to testing might make her get held back
+
+"Ada?" her father's voice called from deep in the house, as soon as Ada turned the key and pushed open the door. The door had so much stuff hanging from the handle and various hooks on the inside, it functioned like the bell on a shop door, alerting everyone that Ada was home. "Ada, come here please."
+
+Ada put her bag down and rolled her shoulder to loosen it back up. "Coming," she called. There was a curious feeling in the air, and she felt uneasy.
+
+She expected to find her dad in the kitchen, and instead had to go looking in her parents' bedroom. Both of her parents were in there, her mother under the covers, her father sitting on the edge of the bed. They'd clearly been talking about whatever it was they wanted to talk to her about.
+
+"Do you care to tell me what this is?" her mother demanded, pointing to an unfolded letter that Ada's father was holding. 
+
+Ada felt a rising sense of panic. Was it something she'd done wrong? Some rule she'd broken? Some parent who was angry that she had led their kid astray? Was it an attack by Mr. Hickenlooper, some sort of new angle that he knew about and she didn't? She gasped for air, and realized that she hadn't been breathing for several seconds. Lightheaded, she sank to the floor, remembering her doctor's instruction from years before not to remain standing if she thought she might faint.
+
+Ada opened her mouth to apologize, and ask for the letter. But as she began to, a contrary set of feelings swept over her. Her eyes narrowed, and her fists clenched. "You know, I try so hard," she said, surprised at the stony edge in her voice. "I'm trying so hard, and I'm doing so well." She felt tears coming.
+
+"That's not in doubt," her father said, with notes of both warmth and correction in his voice.
+
+"But don't change the subject," her mother said. Her father held out a hand subtly, a gesture to tell her mom to ease off. "I want you to tell me what this is, and why we're only reading it now." She turned to her husband and added,  "And don't tell me how to talk to my daughter. I'm talking to her fine. I'm asking her specific questions about her behavior."
+
+"Argh!" Ada let out, shaking her arms to give her anger something to do. "I'll look at whatever that letter is," she said sharply, staring at her mother. "Fine. But first, you have to listen to me."
+
+(next: Ada says how hard she's trying. letter is saying that ada may not graduate from 5th grade, because of noncompliance with state testing.)
+
 
 ===================================================
 
