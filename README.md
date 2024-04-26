@@ -1,18 +1,18 @@
-== Ada and Leo
+## Ada and Leo
 
 Hi, and thanks for taking a look at my novel in progress!
 
 "Ada and Leo" is a YA novel about 5th graders building creative things with technology, running afoul of the bean counters ruining education, and fighting back!
 
-=== Current draft
+### Current draft
 
 The curent draft is far from complete -- it's not even a first draft. It consists of short episodes I wrote in 12 minute stints (though Kathy Garlick's wonderful Round Robin program, highly recommended!), roughly ordered according to chronological time in the timeline.
 
-=== How to read it
+### How to read it
 
 The file `adaleo.txt` is a raw text file, with no visual formatting. After clicking on it, you may notice that the paragraphs do not wrap -- each is just a single, long horizontal line of text. If you click the "Raw" button in the top-right of the screen, it will display with line wrapping; you can then adjust the width of your browser window to get more natural line breaks. Or, copy and paste the whole thing into a Google doc or other word processing app.
 
-=== Writing Black characters
+### Writing Black characters
 
 One note: the lead characters Ada and Leo are, respectively, a 10 year old Black American girl, and a 10 year old White American boy. I am a White American man. I know that many White writers who write Black characters do injustice to them. If you're wondering why Ada is Black, I have several thoughts, but at the end of the day I can't say it's right, or wrong, for me to write this character. I'm interested to know others' thoughts.
 
@@ -24,7 +24,7 @@ A few of my own thoughts on this:
 
 Again, none of this is to claim that I'm the right person to tell Ada's story, or that I have the proper insights into what it is like for her, and her parents, to be Black in America. I do, however, think there can be value even in the flaws with which I am, surely, telling her story. Sometimes, mistakes and surfaced assumptions in a work of art are the most valuable things about it. It's with that spirit -- and, I think, an authentic love for this character -- that I'm continuing to write her.
 
-=== What I'd love from you
+### What I'd love from you
 
 * read some of what I've written so far
 * forgive me for how scattered and disconnected it is -- I have been writing whatever scenes  imagination strikes me with, not starting at the beginning!
@@ -33,7 +33,7 @@ Again, none of this is to claim that I'm the right person to tell Ada's story, o
 * tell me EVERYWHERE that you were bored
 * please don't feel the need to exonerate me from my hand-wringing about writing Black characters -- that's part of the process, and I don't intend to stop second-guessing myself :)
 
-=== Contacting me
+### Contacting me
 
 I can be reached at wheeler.benjamin@gmail.com
 
